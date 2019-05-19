@@ -2,7 +2,8 @@
 
 # Pros/Cons
 
-# [Instal](https://nuxtjs.org/guide/installation)
+# [Install](https://nuxtjs.org/guide/installation)
+
 ### Create nuxt app
 npm install
 npm install -g create-nuxt-app
@@ -42,3 +43,7 @@ nuxt start
 npm generate
 
 # Production
+
+# Author:
+
+[Bùi Huy Cường](https://medium.com/@buihuycuong)
