@@ -2,9 +2,16 @@
 
 # Pros/Cons
 
+# Documentation
+
+- [Tài liệu chính thức](https://nuxtjs.org/)
+- Khóa học
+- Tài liệu
+...
+
 # [Install](https://nuxtjs.org/guide/installation)
 
-### Create nuxt app
+### Create Nuxt.js app
 npm install
 npm install -g create-nuxt-app
 create-nuxt-app project_name ->....
