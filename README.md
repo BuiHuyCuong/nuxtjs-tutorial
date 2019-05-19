@@ -28,7 +28,7 @@ create-nuxt-app project_name ->....
 - `Plugins`: Nơi chứa các JS plugin và sẽ được chạy trước khi Vuejs khởi tạo.
 - `Static`: Nó gần giống assets folder, nhưng ở đây chứa các file ít thay đổi, kiểu như: logo.png, favicon, robots.txt. Đường dẫn tới file sẽ là: "/logo.png"
 - `Store`: Mặc định Nuxt đã có sẵn VueX, và thư mục này chứa vuex store files.
-- `Config.nuxt.js`: File chứa các cấu hình của ứng dụng.
+- `Config.nuxt.js`: File chứa các cấu hình của ứng dụng. Khi mọi thứ được config ở đây sẽ được sử dụng global. Các config như: Loading, plugin, env, route, ...
 
 
 # Basic
