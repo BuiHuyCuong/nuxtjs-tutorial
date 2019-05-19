@@ -6,6 +6,7 @@
 
 - [Tài liệu chính thức](https://nuxtjs.org/)
 - [Github](https://github.com/nuxt/nuxt.js)
+- [Nuxt awesome](https://github.com/nuxt-community/awesome-nuxt)
 - Khóa học
 - Tài liệu
 ...
