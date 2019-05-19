@@ -19,8 +19,8 @@ create-nuxt-app project_name ->....
 - `Pages`: Đây là thành phần bắt buộc duy nhất(các folder khác ko có cũng ko sao). Nó chứa các views và route của ứng dụng. Ở đây Nuxt sẽ đọc tất các các file *.vue bên trong thư mục và tự động tạo thành route cho chúng ta. Hiểu đơn giản nó dạng tree với root domain là '/', các route khác: '/{folder_name|file_name}'. Chúng ta sẽ nói chi tiết ở phần dưới.
 - `Plugins`: Nơi chứa các JS plugin và sẽ được chạy trước khi Vuejs khởi tạo.
 - `Static`: Nó gần giống assets folder, nhưng ở đây chứa các file ít thay đổi, kiểu như: logo.png, favicon, robots.txt. Đường dẫn tới file sẽ là: "/logo.png"
-- `Store`
-- `Config.nuxt.js`
+- `Store`: Mặc định Nuxt đã có sẵn VueX, và thư mục này chứa vuex store files.
+- `Config.nuxt.js`: File chứa các cấu hình của ứng dụng.
 
 
 # Basic
