@@ -5,6 +5,7 @@
 # Documentation
 
 - [Tài liệu chính thức](https://nuxtjs.org/)
+- [Github](https://github.com/nuxt/nuxt.js)
 - Khóa học
 - Tài liệu
 ...
@@ -31,17 +32,20 @@ create-nuxt-app project_name ->....
 
 
 # Basic
-    - Routing https://nuxtjs.org/guide/routing
-    - Views
-    - Pages
-    - Middleware
-    - Assets, static, style
-    - Module
-    - Vuex
-    - Async data
-    - Plugin
-    - Config
-    - API (All basic) https://nuxtjs.org/api/
+
+### Routing https://nuxtjs.org/guide/routing
+### Views
+### Pages
+### Middleware & Authentication
+### Assets, static, style
+### Module
+### Vuex
+### Async data
+https://nuxtjs.org/guide/async-data
+### Plugin
+### Config
+### API (All basic) https://nuxtjs.org/api/
+
 # Code demo and more
 npm run dev | nuxt
 nuxt build
